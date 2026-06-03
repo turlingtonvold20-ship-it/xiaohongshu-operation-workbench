@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书运营工作台"
+  short_description: "根据输入资料批量生成小红书候选内容、排期和发布执行包"
+  default_prompt: "Use $xiaohongshu-operation-workbench to run the full Xiaohongshu content production workflow from my input files."
